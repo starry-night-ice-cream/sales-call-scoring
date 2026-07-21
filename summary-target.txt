@@ -1,0 +1,8 @@
+slack_channel: <SLACK_CHANNEL_NAME>
+slack_channel_id: <SLACK_CHANNEL_ID>
+slack_bot_app_id: <SLACK_BOT_APP_ID>
+slack_bot_token_env: <SLACK_BOT_TOKEN_ENV>
+notion_database_url: <NOTION_DB_URL>
+notion_data_source_url: <NOTION_DATA_SOURCE_URL>
+notion_database_title: Morning Call Audits
+notion_parent_page: <NOTION_PARENT_PAGE>
